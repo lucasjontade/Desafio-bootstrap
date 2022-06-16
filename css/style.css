@@ -1,24 +1,41 @@
-.navbar-brand img{
+.navbar-brand img {
     max-width: 150px;
 }
-.col img{
+
+.col img {
     max-width: 550px;
 }
-.titulo{
+
+.titulo {
     text-align: center;
     margin: 50px;
 }
-footer i{
+
+footer i {
     font-size: 30px;
     margin: 50px;
 }
-.footer{
+
+.footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
     list-style-type: none;
 }
-footer{
+
+footer {
     background-color: black;
     margin-top: 20px;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.formulario h1{
+    text-align: center;
+}
+.mb-3{
+    margin-left: 50px;
+    margin-right: 50px;
 }
